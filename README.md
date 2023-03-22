@@ -1,2 +1,2 @@
 # saas-template
-Saas Landing Page Template using Tailwind
+Saas Landing Page Template using TailwindCSS
